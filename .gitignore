@@ -1,0 +1,101 @@
+
+# -------------------------
+# OS / Editor files
+# -------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -------------------------
+# Environment / Secrets
+# -------------------------
+.env
+.env.*
+*.secret
+*.key
+
+# -------------------------
+# Dependencies
+# -------------------------
+node_modules/
+vendor/
+packages/
+
+# -------------------------
+# Build outputs
+# -------------------------
+dist/
+build/
+out/
+bin/
+obj/
+coverage/
+TestResults/
+
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+venv/
+.env/
+.ipynb_checkpoints/
+
+# -------------------------
+# Java / C++
+# -------------------------
+*.class
+*.jar
+*.war
+*.ear
+*.o
+*.so
+*.exe
+*.dll
+*.out
+
+# -------------------------
+# .NET / C#
+# -------------------------
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# WebAssemby build output
+*.wasm
+
+# -------------------------
+# Misc
+# -------------------------
+*.tmp
+*.bak
+*.old
+*.ps1
